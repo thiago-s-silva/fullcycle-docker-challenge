@@ -3,4 +3,4 @@ This repository contains challenges resolution for the docker module from Fullcy
 
 ## Challenges
 
-- ### [Golang](go-challange/README.md)
+- ### [Golang](go-challenge/README.md)
