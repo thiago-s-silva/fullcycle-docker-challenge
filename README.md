@@ -1,6 +1,6 @@
 # fullcycle-docker-challenge
-This repository contains a challange resolution for the docker module from Fullcycle online course.
+This repository contains challenges resolution for the docker module from Fullcycle online course.
 
-## Challanges
+## Challenges
 
 - ### [Golang](go-challange/README.md)
