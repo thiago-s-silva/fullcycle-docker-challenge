@@ -3,7 +3,7 @@
 [Docker Hub Image](https://hub.docker.com/repository/docker/poollary/codeeducation)
 
 ## Requirements
-- [x] Publish image on <user>/codeeducation.
+- [x] Publish image on yourUser/codeeducation.
 - [x] Needs to print 'Code.education Rocks!' when running the container.
 - [x] The image size should be not greater than 2MB.
 
