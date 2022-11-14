@@ -4,3 +4,4 @@ This repository contains challenges resolution for the docker module from Fullcy
 ## Challenges
 
 - ### [Golang](go-challenge/README.md)
+- ### [Nginx with Node](nginx-with-node/README.md)
