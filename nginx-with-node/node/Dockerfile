@@ -15,4 +15,4 @@ COPY . .
 
 EXPOSE 3000
 
-ENTRYPOINT [ "node", "index" ]
+RUN npm install
